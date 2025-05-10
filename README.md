@@ -21,7 +21,7 @@
 | `/rooms hide`         | Clears the current room overlay                                  |
 | `/rooms list`         | Show a list of rooms in the current chunk                        |
 | `/rooms show [index]` | Highlight a specific room by list index                          |
-| `.rooms auto on|off`  | Enable or disable auto-refresh of room highlight every 5 seconds |
+| `.rooms auto on/off`  | Enable or disable auto-refresh of room highlight every 5 seconds |
 
 #### Permissions
 > Requires only the `chat` privilege. No debug permissions needed.
